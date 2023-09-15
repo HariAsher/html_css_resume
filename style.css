@@ -29,15 +29,17 @@ header{
 nav{
     font-weight: 600;
     font-size: 22px;
+    color: #DE1A1A;
 }
 
 a:link{
     color: #ffffff;
     text-decoration: none;
+    color: #DE1A1A;
 }
 
 a:visited{
-    color: #ffffff;
+    color: #DE1A1A;
 }
 
 body{
