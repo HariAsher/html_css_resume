@@ -23,6 +23,7 @@ header{
     margin: 0;
     color: #ffffff;
     padding: 30px;
+    background-color: #232339;
 }
 
 nav{
@@ -48,61 +49,11 @@ footer{
     text-align: center;
     font-size: 32px;
     color: #ffffff;
+    background-color: #232339;
 }
 
-#education{
-    background-color: #FAF0CA;
-    margin: 0px;
+body{
+    margin: 20px;
     padding: 30px;
-    color: #0D3B66;
-}
-
-#work_experience{
-    background-color: #B5E2FA;
-    color: #0D3B66;
-    padding: 30px;
-    margin: 0px;
-}
-
-#projects{
-    background-color: #FAF0CA;
-    color: #0D3B66;
-    padding: 30px;
-    margin: 0px;
-}
-
-#certifications{
-    background-color: #B5E2FA;
-    color: #0D3B66;
-    padding: 30px;
-    margin: 0px;
-}
-
-#languages{
-    background-color: #FAF0CA;
-    color: #0D3B66;
-    padding: 30px;
-    margin: 0px;
-}
-
-
-#coursework{
-    background-color: #B5E2FA;
-    color: #0D3B66;
-    padding: 30px;
-    margin: 0px;
-}
-
-#hard_skills{
-    background-color: #FAF0CA;
-    color: #0D3B66;
-    padding: 30px;
-    margin: 0px;
-}
-
-#soft_skills{
-    background-color: #B5E2FA;
-    color: #0D3B66;
-    padding: 30px;
-    margin: 0px;
+    color: #f2f2f2;
 }
